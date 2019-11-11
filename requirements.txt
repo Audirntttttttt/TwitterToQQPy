@@ -1,0 +1,4 @@
+APScheduler==3.6.0
+cqhttp==1.2.3
+requests==2.21.0
+feedparser==5.2.1
